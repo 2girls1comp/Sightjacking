@@ -9,3 +9,5 @@ USAGE:
 REQUIREMENTS:
 - Script Hook V
 - Script Hook V Dot Net
+
+![Sightjacking](screenshots/Sightjacking.png)

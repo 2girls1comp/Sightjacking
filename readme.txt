@@ -10,4 +10,4 @@ REQUIREMENTS:
 - Script Hook V
 - Script Hook V Dot Net
 
-![Sightjacking](screenshots/Sightjacking.png)
+![Sightjacking](screenshots/Sightjacking.jpg)

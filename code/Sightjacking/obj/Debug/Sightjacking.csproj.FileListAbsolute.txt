@@ -1,0 +1,9 @@
+C:\Users\razer\Documents\Sightjacking\Sightjacking\bin\Debug\Sightjacking.dll
+C:\Users\razer\Documents\Sightjacking\Sightjacking\bin\Debug\Sightjacking.pdb
+C:\Users\razer\Documents\Sightjacking\Sightjacking\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\razer\Documents\Sightjacking\Sightjacking\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\razer\Documents\Sightjacking\Sightjacking\obj\Debug\Sightjacking.csproj.AssemblyReference.cache
+C:\Users\razer\Documents\Sightjacking\Sightjacking\obj\Debug\Sightjacking.csproj.CoreCompileInputs.cache
+C:\Users\razer\Documents\Sightjacking\Sightjacking\obj\Debug\Sightjacking.csproj.CopyComplete
+C:\Users\razer\Documents\Sightjacking\Sightjacking\obj\Debug\Sightjacking.dll
+C:\Users\razer\Documents\Sightjacking\Sightjacking\obj\Debug\Sightjacking.pdb

@@ -21,10 +21,18 @@ namespace SightJacking
         Ped playerPed = Game.Player.Character;
         private Blip jackedPedBlip;
 
+        //ini file
+        ScriptSettings config;
+        Keys switchKey;
+
         public Sightjacking()
         {
             this.Tick += onTick;
             this.KeyDown += onKeyDown;
+
+            //add an ini
+            config = ScriptSettings.Load("scripts/Sightjacking.ini");
+            switchKey = config.GetValue<Keys>("INPUT", "ModSwitch", Keys.J);
         }
 
         private void onTick(object sender, EventArgs e)
@@ -90,7 +98,7 @@ namespace SightJacking
         }
         private void onKeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.J)
+            if (e.KeyCode == switchKey)
             {
                 if (jackCam == null) //turn on the sightjacking camera
                 {
